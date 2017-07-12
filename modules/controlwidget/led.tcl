@@ -3,7 +3,7 @@
 #    State University (c) Copyright 2005.
 #
 #    You may use this software under the terms of the GNU public license
-#    (GPL) ir the Tcl BSD derived license  The terms of these licenses
+#    (GPL) or the Tcl BSD derived license  The terms of these licenses
 #     are described at:
 #
 #     GPL:  http://www.gnu.org/licenses/gpl.txt
